@@ -1,0 +1,56 @@
+body {
+  /* text-align: center; */
+}
+
+li {
+  display: inline;
+  position: static;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 5.625rem;
+  font-weight: normal;
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-family: "Pacifico", cursive;
+  font-size: 1.75rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-family: "Pacifico", cursive;
+  font-size: 1.25rem;
+}
+
+p {
+  font-family: "Merriweather", serif;
+  font-size: 1rem;
+  line-height: 2;
+}
+
+img {
+  width: 200px;
+}
+
+.middle-section {
+  text-align: center;
+}
+
+.html {
+  position: relative;
+  text-align: center;
+}
+
+.html-icon {
+  position: absolute;
+  /* text-align: center; */
+  left: 260px;
+}
